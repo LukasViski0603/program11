@@ -1,0 +1,32 @@
+M
+B
+S
+A
+T
+M,9
+B,15
+S,-3
+S,9
+A,10
+N,M,Hidden Figures,Theodore Melfi,9,Drama,126,2016,Jaraji P Henson,Octavia Spencer,Janelle Monae
+N,M,Psych 2: Lassie Come Home,Steve Franks,16,Comedy,115,2020,James Roday,Dule Hill,Timothy Omundson
+N,S,Africa,Toto,7,rock,295,1982,1
+N,S,Respect,Aretha Franklin,ERROR,R&B,281,1967,1
+N,S,Strawberry Fields Forever,Beatles,9,pop,ERROR,1967,0
+N,S,Strawberry Fields Forever,Beatles,9,pop,185,1967,1
+N,S,Bohemian Rhapsody,Queen,8,rock,355,1975,1
+N,B,Fairy Tale,Stephen King,5,Suspense,624,2023,5
+N,B,The Brothers Hawthorne,Jennifer Lynn Barnes,9,Mystery,400,ERROR,0
+N,B,Lessons in Chemistry,Bonnie Garmus,7,Humor,320,2026,0
+N,B,Lessons in Chemistry,Bonnie Garmus,7,Humor,320,2022,5
+B,7
+K,Beatles
+S,R&B
+S,Rock
+M,Drama
+B,Adventure
+S,Error
+B,Error
+A
+T
+Q

@@ -1,0 +1,200 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+YOUR MOVIE LIST
+
+#    TITLE                                   YEAR    RATING  STARS
+1    To Kill a Mockingbird                   1962    5       Gregory Peck, Mary Badham
+2    Ferris Bueller's Day Off                1986    7       Matthew Broderick, Alan Ruck, Jennifer Grey
+3    Rocky                                   1976    7       Sylvester Stallone, Carl Weathers
+4    Jaws                                    1975    5       Roy Scheider, Richard Dreyfuss
+5    Daughters of the Dust                   1991    8       Alva Rogers, Cora Lee Day
+6    Raiders of the Lost Ark                 1981    6       Harrison Ford, Karen Allen
+7    Star Wars IV                            1977    6       Mark Hamill, Carrie Fisher, Harrison Ford, Alec Guiness
+8    Hidden Figures                          1977    0       
+9    Mr. Holland's Opus                      1995    8       Richard Dreyfuss, Jay Thomas, Glenne Headly
+10   Blade Runner 2049                       2017    9       Ryan Gosling, Harrison Ford
+11   Jurassic Park                           1993    8       Sam Neill, Jeff Goldblum
+12   Dune                                    2021    7       Timothee Chalamet, Zendaya
+13   Fight Club                              1999    10      Brad Pitt, Edward Norton
+14   Percy Jackson and the Lightning Thief   2010    2       Logan Lerman, Alexandra Daddario
+15   The Grand Budapest Hotel                2014    9       Ralph Fiennes, Saoirse Ronan
+16   Superman                                1978    8       Christopher Reeve, Gene Hackman, Margo Kidder
+17   Spirited Away                           2002    8       Rumi Hiiragi, Miyu Irino
+18   Gone Girl                               2014    10      Ben Affleck, Rosamund Pike
+19   Moonlight                               2016    10      Mahershala Ali, Naomi Harris
+20   The Wolf of Wallstreet                  2013    10      Leonardo DiCaprio, Jonah Hill
+21   Maximum Overdrive                       1986    5       Emilio Estivez, Pat Hingle, Laura Harrington
+22   Hidden Figures                          0       9       
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+YOUR BOOK LIST
+
+#    TITLE                                   YEAR    RATING  WKS ON NYT
+1    To Kill a Mockingbird                   1960    8       4
+2    Hamlet                                  1600    4       5
+3    Animal Farm                             1945    8       6
+4    The Great Gatsby                        1925    7       10
+5    The Catcher in the Rye                  1951    3       9
+6    Lord of the Flies                       1954    6       3
+7    Of Mice and Men                         1937    5       15
+8    Crime and Punishment                    1866    7       15
+9    House of Leaves                         2000    9       0
+10   I Can Teach You to Be Rich              2009    8       16
+11   Neuromancer                             1984    10      16
+12   Percy Jackson and the Last Olympian     2009    9       15
+13   Six of Crows                            2015    10      20
+14   The Alchemist                           1993    9       10
+15   The Goldfinch                           2013    10      1
+16   The Hunger Games                        2008    7       15
+17   The Music of Erich Zann                 1921    10      2
+18   Way of kings                            2010    10      5
+19   Fairy Tale                              5       5       -858993460
+20   The Brothers Hawthorne                  0       9       -858993460
+21   Lessons in Chemistry                    0       7       -858993460
+22   Lessons in Chemistry                    5       7       -858993460
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+YOUR SONG LIST
+
+#    TITLE                                   YEAR    RATING  TOP 40
+1    All Too Well                            2012    10      YES
+2    Baba Yetu                               2025    10      NO
+3    Ball if I want to                       2021    10      YES
+4    Call out my name                        2021    8       NO
+5    Yesterday                               1965    8       YES
+6    Compass                                 2018    8       YES
+7    Easy on me                              2021    6       NO
+8    Figures                                 2018    8       NO
+9    First Love / Late Spring                2014    10      YES
+10   Frozen                                  2017    5       YES
+11   Garden Grove                            1998    10      NO
+12   Hey Jude                                1968    10      YES
+13   Har dil ki ava                          2014    10      YES
+14   Holy Ghost                              2015    8       YES
+15   kal ho na ho                            2009    9       NO
+16   Let It Be                               1970    9       YES
+17   Monks                                   2012    10      YES
+18   More Than a Woman                       1977    9       NO
+19   nasha ha                                2010    8       NO
+20   Out Tha Mud                             2015    10      NO
+21   Phali dafa                              2017    9       NO
+22   Sea Dragon                              2018    9       YES
+23   Slacker                                 2002    10      YES
+24   Something                               2015    10      YES
+25   Sweet Caroline                          1969    10      YES
+26   Sweet Life                              2012    8       NO
+27   Thank u - next                          2019    8       YES
+28   The Mountain Top                        2021    10      NO
+29   Tik Tok                                 2009    9       YES
+30   Tranquility Base Hotel & Casino         2018    10      YES
+31   Wake Up                                 2015    9       NO
+32   Africa                                  1       7       NO
+33   Respect                                 0       0       NO
+34   Strawberry Fields Forever               0       9       NO
+35   Strawberry Fields Forever               1       9       NO
+36   Bohemian Rhapsody                       1       8       NO
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+YOUR MOVIE LIST FOR RATING >= 9
+
+#           TITLE                                   YEAR    RATING  STARS
+1           Blade Runner 2049                       2017    9       Ryan Gosling, Harrison Ford
+2           Fight Club                              1999    10      Brad Pitt, Edward Norton
+3           The Grand Budapest Hotel                2014    9       Ralph Fiennes, Saoirse Ronan
+4           Gone Girl                               2014    10      Ben Affleck, Rosamund Pike
+5           Moonlight                               2016    10      Mahershala Ali, Naomi Harris
+6           The Wolf of Wallstreet                  2013    10      Leonardo DiCaprio, Jonah Hill
+7           Hidden Figures                          0       9       
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+YOUR MEDIA LIST FOR RATING >= 10
+#           TITLE                                   YEAR    RATING  TYPE
+1           Fight Club                              1999    10      Movie
+2           Gone Girl                               2014    10      Movie
+3           Moonlight                               2016    10      Movie
+4           The Wolf of Wallstreet                  2013    10      Movie
+5           Neuromancer                             1984    10      Book
+6           Six of Crows                            2015    10      Book
+7           The Goldfinch                           2013    10      Book
+8           The Music of Erich Zann                 1921    10      Book
+9           Way of kings                            2010    10      Book
+10          All Too Well                            2012    10      Song
+11          Baba Yetu                               2025    10      Song
+12          Ball if I want to                       2021    10      Song
+13          First Love / Late Spring                2014    10      Song
+14          Garden Grove                            1998    10      Song
+15          Hey Jude                                1968    10      Song
+16          Har dil ki ava                          2014    10      Song
+17          Monks                                   2012    10      Song
+18          Out Tha Mud                             2015    10      Song
+19          Slacker                                 2002    10      Song
+20          Something                               2015    10      Song
+21          Sweet Caroline                          1969    10      Song
+22          The Mountain Top                        2021    10      Song
+23          Tranquility Base Hotel & Casino         2018    10      Song
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+YOUR SONG LIST FOR RATING >= 9
+#    TITLE                                   YEAR    RATING  TOP 40
+1    All Too Well                            2012    10      YES
+2    Baba Yetu                               2025    10      NO
+3    Ball if I want to                       2021    10      YES
+4    First Love / Late Spring                2014    10      YES
+5    Garden Grove                            1998    10      NO
+6    Hey Jude                                1968    10      YES
+7    Har dil ki ava                          2014    10      YES
+8    kal ho na ho                            2009    9       NO
+9    Let It Be                               1970    9       YES
+10   Monks                                   2012    10      YES
+11   More Than a Woman                       1977    9       NO
+12   Out Tha Mud                             2015    10      NO
+13   Phali dafa                              2017    9       NO
+14   Sea Dragon                              2018    9       YES
+15   Slacker                                 2002    10      YES
+16   Something                               2015    10      YES
+17   Sweet Caroline                          1969    10      YES
+18   The Mountain Top                        2021    10      NO
+19   Tik Tok                                 2009    9       YES
+20   Tranquility Base Hotel & Casino         2018    10      YES
+21   Wake Up                                 2015    9       NO
+22   Strawberry Fields Forever               0       9       NO
+23   Strawberry Fields Forever               1       9       NO
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+YOUR BOOK LIST FOR RATING >= 7
+#    TITLE                                   YEAR    RATING  WKS ON NYT
+1    To Kill a Mockingbird                   1960    8       4
+2    Animal Farm                             1945    8       6
+3    The Great Gatsby                        1925    7       10
+4    Crime and Punishment                    1866    7       15
+5    House of Leaves                         2000    9       0
+6    I Can Teach You to Be Rich              2009    8       16
+7    Neuromancer                             1984    10      16
+8    Percy Jackson and the Last Olympian     2009    9       15
+9    Six of Crows                            2015    10      20
+10   The Alchemist                           1993    9       10
+11   The Goldfinch                           2013    10      1
+12   The Hunger Games                        2008    7       15
+13   The Music of Erich Zann                 1921    10      2
+14   Way of kings                            2010    10      5
+15   The Brothers Hawthorne                  0       9       -858993460
+16   Lessons in Chemistry                    0       7       -858993460
+17   Lessons in Chemistry                    5       7       -858993460
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+YOUR MEDIA LIBRARY
+22   Movies
+22   Books
+36   Songs
+80   Items
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+YOUR MEDIA LIST
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+Media Type     Count
+Movies         22
+Books          22
+Songs          36
+++++++++++++++++++++++++++++++++++++++++++++++++++++

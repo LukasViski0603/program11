@@ -1,0 +1,29 @@
+ERROR: Invalid weeksNYT value for Book 'Fahrenheit 451': 
+ERROR: Invalid weeksNYT value for Book 'Watchmen': ERROR
+Invalid boolean value for Top40
+Invalid boolean value for Top40
+Unsupported media type encountered: Q
+Unrecognized command: M
+Unrecognized command: B
+Unrecognized command: S
+Unrecognized command: T
+Unrecognized command: M
+Unrecognized command: B
+Unrecognized command: S
+Unrecognized command: S
+Failed to parse yearReleased for Hidden Figures
+Failed to parse yearReleased for Psych 2: Lassie Come Home
+Invalid rating value for Psych 2: Lassie Come Home: 16
+Failed to parse yearReleased for Respect
+Failed to parse yearReleased for Strawberry Fields Forever
+Failed to parse yearReleased for The Brothers Hawthorne
+Unrecognized command: B
+Unrecognized command: K
+Unrecognized command: S
+Unrecognized command: S
+Unrecognized command: M
+Unrecognized command: B
+Unrecognized command: S
+Unrecognized command: B
+Unrecognized command: T
+Unrecognized command: Q
